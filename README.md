@@ -1,1 +1,2 @@
 # fircode
+ConsoleWriteline = "Hello";
